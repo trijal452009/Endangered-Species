@@ -1,0 +1,35 @@
+body{
+    background-color: #fcc920;
+    text-align: center
+}
+img{
+    width: 450px;
+    height: 300px;
+    padding-right: 900px;
+   
+    
+        
+}
+h1{
+ text-align: center;
+    color: #00ceff;
+     
+    
+}
+h2{
+    color: #ed1414
+}
+h3{
+    color: #ed1414;
+    font-family: serif
+}
+p{
+    font-size: 15px;
+    font-style:italic;
+    font-weight: bold
+}
+h5{
+   font-style:italic;
+    color: cadetblue;
+    text-align: left;
+}
